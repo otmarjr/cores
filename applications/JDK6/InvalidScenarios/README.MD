@@ -1,1 +1,0 @@
-These files were originally extracted from the MOP files authored by people on the FSL Laboratory of Illinois University. More information can be found at http://fsl.cs.illinois.edu/index.php/JavaMOP4
