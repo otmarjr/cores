@@ -1,0 +1,2 @@
+The files in this folder consist of the supplementary material of the paper A Framework for the evaluation of specification miners based on finite state machines by Michael Pradel.
+These files were obtained at http://mp.binaervarianz.de/icsm2010/index.html and are the result of work by Michael Pradel, Philipp Bichsel and Thomas Gross.

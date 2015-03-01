@@ -1,0 +1,2 @@
+java.net.CacheResponse.getBody()
+java.net.CacheResponse.<init>()

@@ -1,0 +1,5 @@
+java.util.logging.Logging.setLoggerLevel()
+java.util.logging.Logging.getLoggerNames()
+java.util.logging.Logging.getLoggerLevel()
+java.util.logging.Logging.<init>()
+java.util.logging.Logging.getParentLoggerName()

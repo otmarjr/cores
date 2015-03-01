@@ -1,0 +1,3 @@
+java.util.spi.CurrencyNameProvider.getSymbol()
+java.util.spi.CurrencyNameProvider.<init>()
+java.util.spi.CurrencyNameProvider.getAvailableLocales()

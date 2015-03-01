@@ -1,0 +1,3 @@
+java.util.IllegalFormatFlagsException.getFlags()
+java.util.IllegalFormatFlagsException.<init>()
+java.util.IllegalFormatFlagsException.getMessage()

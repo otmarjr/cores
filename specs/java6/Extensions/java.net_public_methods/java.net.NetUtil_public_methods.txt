@@ -1,0 +1,3 @@
+java.net.NetUtil.run()
+java.net.NetUtil.<init>()
+java.net.NetUtil.doRevealLocalAddress()

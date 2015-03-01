@@ -1,0 +1,6 @@
+java.net.Inet6AddressImpl.isReachable()
+java.net.Inet6AddressImpl.loopbackAddress()
+java.net.Inet6AddressImpl.<init>()
+java.net.Inet6AddressImpl.anyLocalAddress()
+java.net.Inet6AddressImpl.getLocalHostName()
+java.net.Inet6AddressImpl.getHostByAddr()

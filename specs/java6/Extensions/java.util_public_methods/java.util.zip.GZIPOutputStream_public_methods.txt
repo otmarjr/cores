@@ -1,0 +1,5 @@
+java.util.zip.GZIPOutputStream.deflate()
+java.util.zip.GZIPOutputStream.write()
+java.util.zip.GZIPOutputStream.close()
+java.util.zip.GZIPOutputStream.<init>()
+java.util.zip.GZIPOutputStream.finish()

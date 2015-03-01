@@ -1,0 +1,8 @@
+java.util.zip.DeflaterInputStream.close()
+java.util.zip.DeflaterInputStream.<init>()
+java.util.zip.DeflaterInputStream.skip()
+java.util.zip.DeflaterInputStream.markSupported()
+java.util.zip.DeflaterInputStream.reset()
+java.util.zip.DeflaterInputStream.available()
+java.util.zip.DeflaterInputStream.read()
+java.util.zip.DeflaterInputStream.mark()

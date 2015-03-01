@@ -1,0 +1,8 @@
+java.util.concurrent.atomic.AtomicStampedReference.attemptStamp()
+java.util.concurrent.atomic.AtomicStampedReference.set()
+java.util.concurrent.atomic.AtomicStampedReference.getReference()
+java.util.concurrent.atomic.AtomicStampedReference.get()
+java.util.concurrent.atomic.AtomicStampedReference.<init>()
+java.util.concurrent.atomic.AtomicStampedReference.weakCompareAndSet()
+java.util.concurrent.atomic.AtomicStampedReference.compareAndSet()
+java.util.concurrent.atomic.AtomicStampedReference.getStamp()

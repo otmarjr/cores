@@ -1,0 +1,5 @@
+java.util.zip.InflaterOutputStream.finish()
+java.util.zip.InflaterOutputStream.flush()
+java.util.zip.InflaterOutputStream.close()
+java.util.zip.InflaterOutputStream.write()
+java.util.zip.InflaterOutputStream.<init>()

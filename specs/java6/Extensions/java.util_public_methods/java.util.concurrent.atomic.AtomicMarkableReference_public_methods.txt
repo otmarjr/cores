@@ -1,0 +1,8 @@
+java.util.concurrent.atomic.AtomicMarkableReference.set()
+java.util.concurrent.atomic.AtomicMarkableReference.isMarked()
+java.util.concurrent.atomic.AtomicMarkableReference.weakCompareAndSet()
+java.util.concurrent.atomic.AtomicMarkableReference.compareAndSet()
+java.util.concurrent.atomic.AtomicMarkableReference.attemptMark()
+java.util.concurrent.atomic.AtomicMarkableReference.<init>()
+java.util.concurrent.atomic.AtomicMarkableReference.get()
+java.util.concurrent.atomic.AtomicMarkableReference.getReference()

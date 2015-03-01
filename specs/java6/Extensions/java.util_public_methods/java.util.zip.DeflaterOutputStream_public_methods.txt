@@ -1,0 +1,5 @@
+java.util.zip.DeflaterOutputStream.close()
+java.util.zip.DeflaterOutputStream.write()
+java.util.zip.DeflaterOutputStream.<init>()
+java.util.zip.DeflaterOutputStream.finish()
+java.util.zip.DeflaterOutputStream.deflate()

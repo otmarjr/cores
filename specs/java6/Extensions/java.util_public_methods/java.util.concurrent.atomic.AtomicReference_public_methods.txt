@@ -1,0 +1,8 @@
+java.util.concurrent.atomic.AtomicReference.get()
+java.util.concurrent.atomic.AtomicReference.compareAndSet()
+java.util.concurrent.atomic.AtomicReference.weakCompareAndSet()
+java.util.concurrent.atomic.AtomicReference.getAndSet()
+java.util.concurrent.atomic.AtomicReference.<init>()
+java.util.concurrent.atomic.AtomicReference.set()
+java.util.concurrent.atomic.AtomicReference.lazySet()
+java.util.concurrent.atomic.AtomicReference.toString()

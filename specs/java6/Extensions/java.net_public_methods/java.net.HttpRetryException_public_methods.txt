@@ -1,0 +1,4 @@
+java.net.HttpRetryException.<init>()
+java.net.HttpRetryException.getReason()
+java.net.HttpRetryException.getLocation()
+java.net.HttpRetryException.responseCode()

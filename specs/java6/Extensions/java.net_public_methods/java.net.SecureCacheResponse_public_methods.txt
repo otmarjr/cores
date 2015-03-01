@@ -1,0 +1,7 @@
+java.net.SecureCacheResponse.<init>()
+java.net.SecureCacheResponse.getLocalCertificateChain()
+java.net.SecureCacheResponse.getLocalPrincipal()
+java.net.SecureCacheResponse.getServerCertificateChain()
+java.net.SecureCacheResponse.getPeerPrincipal()
+java.net.SecureCacheResponse.getCipherSuite()
+java.net.SecureCacheResponse.getBody()

@@ -1,0 +1,3 @@
+java.util.prefs.NodeChangeEvent.<init>()
+java.util.prefs.NodeChangeEvent.getChild()
+java.util.prefs.NodeChangeEvent.getParent()

@@ -1,0 +1,5 @@
+java.net.ProxySelector.connectFailed()
+java.net.ProxySelector.getDefault()
+java.net.ProxySelector.setDefault()
+java.net.ProxySelector.<init>()
+java.net.ProxySelector.select()

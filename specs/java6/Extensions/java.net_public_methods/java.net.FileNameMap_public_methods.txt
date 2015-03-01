@@ -1,0 +1,2 @@
+java.net.FileNameMap.getContentTypeFor()
+java.net.FileNameMap.<init>()

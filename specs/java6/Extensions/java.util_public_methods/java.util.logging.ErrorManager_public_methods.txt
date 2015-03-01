@@ -1,0 +1,2 @@
+java.util.logging.ErrorManager.<init>()
+java.util.logging.ErrorManager.error()

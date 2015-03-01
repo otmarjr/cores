@@ -1,0 +1,8 @@
+java.util.jar.JavaUtilJarAccessImpl.entryNames()
+java.util.jar.JavaUtilJarAccessImpl.setEagerValidation()
+java.util.jar.JavaUtilJarAccessImpl.jarFileHasClassPathAttribute()
+java.util.jar.JavaUtilJarAccessImpl.getCodeSource()
+java.util.jar.JavaUtilJarAccessImpl.getCodeSources()
+java.util.jar.JavaUtilJarAccessImpl.getManifestDigests()
+java.util.jar.JavaUtilJarAccessImpl.<init>()
+java.util.jar.JavaUtilJarAccessImpl.entries2()

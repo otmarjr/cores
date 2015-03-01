@@ -1,0 +1,3 @@
+java.util.IllegalFormatPrecisionException.getMessage()
+java.util.IllegalFormatPrecisionException.getPrecision()
+java.util.IllegalFormatPrecisionException.<init>()

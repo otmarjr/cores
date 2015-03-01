@@ -1,0 +1,5 @@
+java.net.SocketOutputStream.<init>()
+java.net.SocketOutputStream.getChannel()
+java.net.SocketOutputStream.write()
+java.net.SocketOutputStream.close()
+java.net.SocketOutputStream.finalize()

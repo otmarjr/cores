@@ -1,0 +1,8 @@
+java.util.Dictionary.<init>()
+java.util.Dictionary.get()
+java.util.Dictionary.put()
+java.util.Dictionary.size()
+java.util.Dictionary.remove()
+java.util.Dictionary.isEmpty()
+java.util.Dictionary.keys()
+java.util.Dictionary.elements()

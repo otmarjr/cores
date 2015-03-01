@@ -1,0 +1,3 @@
+java.util.concurrent.BlockingDeque.size()
+java.util.concurrent.BlockingDeque.<init>()
+java.util.concurrent.BlockingDeque.contains()

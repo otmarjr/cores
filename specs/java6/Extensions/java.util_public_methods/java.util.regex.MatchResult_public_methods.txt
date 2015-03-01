@@ -1,0 +1,5 @@
+java.util.regex.MatchResult.group()
+java.util.regex.MatchResult.groupCount()
+java.util.regex.MatchResult.start()
+java.util.regex.MatchResult.end()
+java.util.regex.MatchResult.<init>()

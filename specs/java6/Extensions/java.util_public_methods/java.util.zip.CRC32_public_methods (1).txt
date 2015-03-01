@@ -1,0 +1,4 @@
+java.util.zip.CRC32.getValue()
+java.util.zip.CRC32.reset()
+java.util.zip.CRC32.update()
+java.util.zip.CRC32.<init>()

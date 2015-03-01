@@ -1,0 +1,1 @@
+The refined specs are in JFlap file format. This files can be opened using JFLap tool and existing implementations can generate input to be checked using JFLAP tool.

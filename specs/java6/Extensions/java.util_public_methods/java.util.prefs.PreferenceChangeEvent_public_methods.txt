@@ -1,0 +1,4 @@
+java.util.prefs.PreferenceChangeEvent.getKey()
+java.util.prefs.PreferenceChangeEvent.getNode()
+java.util.prefs.PreferenceChangeEvent.getNewValue()
+java.util.prefs.PreferenceChangeEvent.<init>()
