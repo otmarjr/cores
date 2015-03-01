@@ -1,0 +1,6 @@
+java.net.CookieManager.setDefault()
+java.net.CookieManager.getDefault()
+java.net.CookieManager.setCookiePolicy()
+java.net.CookieManager.compare()
+java.net.CookieManager.<init>()
+java.net.CookieManager.getCookieStore()

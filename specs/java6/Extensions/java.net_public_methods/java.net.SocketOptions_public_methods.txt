@@ -1,0 +1,2 @@
+java.net.SocketOptions.<init>()
+java.net.SocketOptions.getOption()

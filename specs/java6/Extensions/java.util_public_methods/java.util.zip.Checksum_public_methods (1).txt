@@ -1,0 +1,4 @@
+java.util.zip.Checksum.reset()
+java.util.zip.Checksum.<init>()
+java.util.zip.Checksum.getValue()
+java.util.zip.Checksum.update()

@@ -1,0 +1,4 @@
+java.util.zip.CheckedInputStream.read()
+java.util.zip.CheckedInputStream.getChecksum()
+java.util.zip.CheckedInputStream.<init>()
+java.util.zip.CheckedInputStream.skip()

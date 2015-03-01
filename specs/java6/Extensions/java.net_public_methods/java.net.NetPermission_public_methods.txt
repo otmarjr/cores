@@ -1,0 +1,4 @@
+java.net.NetPermission.readObject()
+java.net.NetPermission.getCanonicalName()
+java.net.NetPermission.init()
+java.net.NetPermission.<init>()

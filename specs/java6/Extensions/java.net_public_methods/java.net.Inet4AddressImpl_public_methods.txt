@@ -1,0 +1,6 @@
+java.net.Inet4AddressImpl.<init>()
+java.net.Inet4AddressImpl.getLocalHostName()
+java.net.Inet4AddressImpl.loopbackAddress()
+java.net.Inet4AddressImpl.getHostByAddr()
+java.net.Inet4AddressImpl.anyLocalAddress()
+java.net.Inet4AddressImpl.isReachable()

@@ -1,0 +1,3 @@
+java.util.DuplicateFormatFlagsException.getFlags()
+java.util.DuplicateFormatFlagsException.getMessage()
+java.util.DuplicateFormatFlagsException.<init>()

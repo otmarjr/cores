@@ -1,0 +1,4 @@
+java.util.logging.LoggingMXBean.<init>()
+java.util.logging.LoggingMXBean.getLoggerLevel()
+java.util.logging.LoggingMXBean.getParentLoggerName()
+java.util.logging.LoggingMXBean.setLoggerLevel()

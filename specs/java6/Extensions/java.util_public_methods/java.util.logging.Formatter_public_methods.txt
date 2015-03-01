@@ -1,0 +1,5 @@
+java.util.logging.Formatter.getHead()
+java.util.logging.Formatter.formatMessage()
+java.util.logging.Formatter.<init>()
+java.util.logging.Formatter.format()
+java.util.logging.Formatter.getTail()

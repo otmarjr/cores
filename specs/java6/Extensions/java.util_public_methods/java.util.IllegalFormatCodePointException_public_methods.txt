@@ -1,0 +1,3 @@
+java.util.IllegalFormatCodePointException.getMessage()
+java.util.IllegalFormatCodePointException.getCodePoint()
+java.util.IllegalFormatCodePointException.<init>()

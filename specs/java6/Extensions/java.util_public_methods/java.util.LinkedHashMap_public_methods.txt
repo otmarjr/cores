@@ -1,0 +1,8 @@
+java.util.LinkedHashMap.<init>()
+java.util.LinkedHashMap.containsValue()
+java.util.LinkedHashMap.get()
+java.util.LinkedHashMap.hasNext()
+java.util.LinkedHashMap.remove()
+java.util.LinkedHashMap.next()
+java.util.LinkedHashMap.removeEldestEntry()
+java.util.LinkedHashMap.clear()

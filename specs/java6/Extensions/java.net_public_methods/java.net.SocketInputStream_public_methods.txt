@@ -1,0 +1,7 @@
+java.net.SocketInputStream.skip()
+java.net.SocketInputStream.finalize()
+java.net.SocketInputStream.available()
+java.net.SocketInputStream.close()
+java.net.SocketInputStream.getChannel()
+java.net.SocketInputStream.<init>()
+java.net.SocketInputStream.read()

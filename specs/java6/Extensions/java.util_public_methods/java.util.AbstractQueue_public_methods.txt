@@ -1,0 +1,8 @@
+java.util.AbstractQueue.clear()
+java.util.AbstractQueue.addAll()
+java.util.AbstractQueue.finishToArray()
+java.util.AbstractQueue.remove()
+java.util.AbstractQueue.hugeCapacity()
+java.util.AbstractQueue.element()
+java.util.AbstractQueue.add()
+java.util.AbstractQueue.<init>()

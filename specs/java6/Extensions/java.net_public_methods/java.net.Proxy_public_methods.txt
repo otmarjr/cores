@@ -1,0 +1,6 @@
+java.net.Proxy.type()
+java.net.Proxy.toString()
+java.net.Proxy.equals()
+java.net.Proxy.hashCode()
+java.net.Proxy.<init>()
+java.net.Proxy.address()

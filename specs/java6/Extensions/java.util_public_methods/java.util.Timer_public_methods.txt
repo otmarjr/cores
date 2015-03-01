@@ -1,0 +1,7 @@
+java.util.Timer.cancel()
+java.util.Timer.schedule()
+java.util.Timer.scheduleAtFixedRate()
+java.util.Timer.purge()
+java.util.Timer.run()
+java.util.Timer.finalize()
+java.util.Timer.<init>()

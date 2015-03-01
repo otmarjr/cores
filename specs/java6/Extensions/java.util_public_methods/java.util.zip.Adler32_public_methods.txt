@@ -1,0 +1,4 @@
+java.util.zip.Adler32.<init>()
+java.util.zip.Adler32.update()
+java.util.zip.Adler32.getValue()
+java.util.zip.Adler32.reset()

@@ -1,0 +1,4 @@
+java.net.ResponseCache.put()
+java.net.ResponseCache.setDefault()
+java.net.ResponseCache.getDefault()
+java.net.ResponseCache.<init>()

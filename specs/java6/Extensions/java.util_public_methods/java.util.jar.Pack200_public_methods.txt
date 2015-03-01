@@ -1,0 +1,4 @@
+java.util.jar.Pack200.newPacker()
+java.util.jar.Pack200.newInstance()
+java.util.jar.Pack200.newUnpacker()
+java.util.jar.Pack200.<init>()

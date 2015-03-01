@@ -1,0 +1,3 @@
+java.net.CacheRequest.<init>()
+java.net.CacheRequest.getBody()
+java.net.CacheRequest.abort()

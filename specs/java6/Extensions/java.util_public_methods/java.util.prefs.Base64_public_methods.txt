@@ -1,0 +1,6 @@
+java.util.prefs.Base64.byteArrayToAltBase64()
+java.util.prefs.Base64.byteArrayToBase64()
+java.util.prefs.Base64.main()
+java.util.prefs.Base64.altBase64ToByteArray()
+java.util.prefs.Base64.<init>()
+java.util.prefs.Base64.base64ToByteArray()

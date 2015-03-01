@@ -1,0 +1,7 @@
+java.util.logging.SocketHandler.flush()
+java.util.logging.SocketHandler.publish()
+java.util.logging.SocketHandler.close()
+java.util.logging.SocketHandler.setEncoding()
+java.util.logging.SocketHandler.isLoggable()
+java.util.logging.SocketHandler.<init>()
+java.util.logging.SocketHandler.setOutputStream()

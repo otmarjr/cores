@@ -1,0 +1,7 @@
+java.net.InterfaceAddress.equals()
+java.net.InterfaceAddress.hashCode()
+java.net.InterfaceAddress.getAddress()
+java.net.InterfaceAddress.getBroadcast()
+java.net.InterfaceAddress.getNetworkPrefixLength()
+java.net.InterfaceAddress.toString()
+java.net.InterfaceAddress.<init>()

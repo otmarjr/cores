@@ -1,0 +1,8 @@
+java.util.concurrent.atomic.AtomicBoolean.weakCompareAndSet()
+java.util.concurrent.atomic.AtomicBoolean.<init>()
+java.util.concurrent.atomic.AtomicBoolean.get()
+java.util.concurrent.atomic.AtomicBoolean.toString()
+java.util.concurrent.atomic.AtomicBoolean.getAndSet()
+java.util.concurrent.atomic.AtomicBoolean.lazySet()
+java.util.concurrent.atomic.AtomicBoolean.compareAndSet()
+java.util.concurrent.atomic.AtomicBoolean.set()

@@ -1,0 +1,5 @@
+java.util.regex.PatternSyntaxException.getIndex()
+java.util.regex.PatternSyntaxException.getDescription()
+java.util.regex.PatternSyntaxException.getPattern()
+java.util.regex.PatternSyntaxException.getMessage()
+java.util.regex.PatternSyntaxException.<init>()

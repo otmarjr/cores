@@ -1,0 +1,2 @@
+java.util.Deque.<init>()
+java.util.Deque.size()

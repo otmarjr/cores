@@ -1,0 +1,7 @@
+java.util.concurrent.atomic.AtomicReferenceFieldUpdater.getAndSet()
+java.util.concurrent.atomic.AtomicReferenceFieldUpdater.compareAndSet()
+java.util.concurrent.atomic.AtomicReferenceFieldUpdater.lazySet()
+java.util.concurrent.atomic.AtomicReferenceFieldUpdater.weakCompareAndSet()
+java.util.concurrent.atomic.AtomicReferenceFieldUpdater.get()
+java.util.concurrent.atomic.AtomicReferenceFieldUpdater.<init>()
+java.util.concurrent.atomic.AtomicReferenceFieldUpdater.set()

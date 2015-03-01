@@ -1,0 +1,3 @@
+java.util.zip.CheckedOutputStream.getChecksum()
+java.util.zip.CheckedOutputStream.<init>()
+java.util.zip.CheckedOutputStream.write()

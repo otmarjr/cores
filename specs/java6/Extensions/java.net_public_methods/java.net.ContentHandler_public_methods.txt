@@ -1,0 +1,2 @@
+java.net.ContentHandler.getContent()
+java.net.ContentHandler.<init>()

@@ -1,0 +1,5 @@
+java.net.URISyntaxException.getReason()
+java.net.URISyntaxException.<init>()
+java.net.URISyntaxException.getMessage()
+java.net.URISyntaxException.getIndex()
+java.net.URISyntaxException.getInput()
